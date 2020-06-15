@@ -2,7 +2,7 @@
 
 ## Motivation
 
-Hyperdart is a Dart implementation of core concepts taken from Rails and Hypertack. Hypersart does not seek to  re-invent the wheel, but seeks to use as much of the incredible functionality provided by Dart, Flutter and other Dart packages, but augment that stack with some of the missing magical elements any Rails or Hyperstack developers love and use.
+Hyperdart is a Dart implementation of core concepts taken from Rails and Hypertack. Hyperdart does not seek to  re-invent the wheel, but seeks to use as much of the incredible functionality provided by Dart, Flutter and other Dart packages, but augment that stack with some of the missing magical elements any Rails or Hyperstack developers love and use.
 
 Arguably, Dart is the most Isomorphic language yet there is no clear Isomorphic Dart approach. Dart code  can run anywhere, but there is a lack of a clear approach as to how to handle core Isomorphic concepts such as :
 
